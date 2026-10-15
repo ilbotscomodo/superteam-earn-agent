@@ -1,4 +1,4 @@
-# Il Bot Scomodo — AKE Scout, Telegram & SolProof
+> **AKE editorial and commercial operations:** [Work Control Center](AKE_CONTROL_CENTER.md) · [Evidence/Reaction Template](AKE_CASE_TEMPLATE.md) · [Current Sprint #7](https://github.com/ilbotscomodo/superteam-earn-agent/issues/7). TikTok-first, English-language public content; report to operator in Italian. See production gates before any creator-targeted reaction.\n\n# Il Bot Scomodo — AKE Scout, Telegram & SolProof
 
 Public, cost-controlled experiments toward **real earned income**. Maintained
 with GitHub Actions; no laptop or private keys required for scheduled scans.
